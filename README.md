@@ -21,7 +21,8 @@
 2. [下载 ADB](https://raw.githubusercontent.com/Nihiue/JumpHelper/master/static/platform-tools-latest-windows.zip)，并解压
 3. 打开手机的 Debug 调试功能，并使用 USB 连接电脑
 4. 运行程序, 点击 选择ADB 中选择步骤2解压出的 adb.exe
-5. 在手机端打开【跳一跳】，点击辅助工具开始
+5. 在手机端打开【跳一跳】
+6. 有手动模式和自动模式，点击手动模式之后需要鼠标点击所想跳的位置即可，自动模式开启后不需要其他操作了
 
 ## 参数设置
 
